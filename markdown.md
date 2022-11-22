@@ -33,3 +33,4 @@ int main(void){
     printf("hello);
 }
 ```
+тут будет фото.....
