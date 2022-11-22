@@ -20,6 +20,7 @@
 ### Обрамление кода
 ```python
 print (hello world)
+```
 
 ### CODE FOLDING
 ```C
