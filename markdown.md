@@ -33,3 +33,6 @@ int main(void){
     printf("hello);
 }
 ```
+## картинка
+это яблоко
+![apple](apple.jpg)
