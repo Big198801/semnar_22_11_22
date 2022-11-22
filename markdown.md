@@ -18,6 +18,18 @@
 2. и так// list
 
 ### Обрамление кода
+
+пример на Питоне:
+
 ```python
 print (hello world)
+```
 
+### CODE FOLDING
+
+пример на С:
+```C
+int main(void){
+    printf("hello);
+}
+```
