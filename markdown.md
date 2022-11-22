@@ -33,4 +33,10 @@ int main(void){
     printf("hello);
 }
 ```
+<<<<<<< HEAD
 тут будет фото.....
+=======
+## картинка
+это яблоко
+![apple](apple.jpg)
+>>>>>>> apple
