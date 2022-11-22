@@ -18,3 +18,9 @@
 2. и так
 
 
+### CODE FOLDING
+```C
+int main(void){
+    printf("hello);
+}
+```
