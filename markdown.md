@@ -35,8 +35,7 @@ int main(void){
 ```
 тут будет фото.....
 ## картинка
-это яблоко
-![apple](apple.jpg)
+
 
 Апельсин
 ![orange](orange.JPG)
