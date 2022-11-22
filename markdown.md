@@ -17,4 +17,7 @@
 
 2. и так
 
+### Обрамление кода
+```python
+print (hello world)
 
